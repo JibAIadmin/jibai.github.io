@@ -9,9 +9,6 @@ body {
  background-color: #f9f9f9;
 
 }
-
-
-
 header {
 
  background-color: #0343DF;
@@ -23,9 +20,6 @@ header {
  text-align: center;
 
 }
-
-
-
 header nav ul {
 
  list-style: none;
@@ -39,17 +33,11 @@ header nav ul {
  justify-content: space-between;
 
 }
-
-
-
 header nav ul li {
 
  margin-right: 20px;
 
 }
-
-
-
 header nav a {
 
  color: #ffffff;
@@ -57,9 +45,6 @@ header nav a {
  text-decoration: none;
 
 }
-
-
-
 main {
 
  display: flex;
@@ -71,9 +56,6 @@ main {
  padding: 2rem;
 
 }
-
-
-
 main h1 {
 
  color: #0343DF;
@@ -81,9 +63,6 @@ main h1 {
  margin-bottom: 0.5rem;
 
 }
-
-
-
 main p {
 
  color: #666666;
@@ -91,6 +70,14 @@ main p {
  margin-top: 0;
 
 }
+.chat-container {
 
+  width: 80%;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
 
 
