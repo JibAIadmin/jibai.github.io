@@ -1,0 +1,32 @@
+/* Chatbot Layout */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.chat-container {
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.response-display {
+    height: 150px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background: #ffffff;
+}
+
+#user-input {
+    width: 70%;
+    padding: 5px;
+}
+
+#send-button {
+    padding: 5px;
+}
